@@ -25,4 +25,4 @@ Krishna Kumar. Supervised by Professor Simantini Ghosh.
 
 ## Links
 
-- [Website — writing](https://harshithroshankrishnakumarug2023-ops.github.io/harshithroshan.github.io/writing/)
+- [Website — writing](https://harshithroshan.github.io/writing/)
